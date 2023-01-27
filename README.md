@@ -6,17 +6,17 @@ For this project we are analyzing Amazon reviews written by members of the paid 
 
 ## Summarizing the results to answer the following questions.
 
-### How many Vine reviews and non-Vine reviews were there?
+### 1. How many Vine reviews and non-Vine reviews were there?
 
 ![Screenshot (237)](https://user-images.githubusercontent.com/112904905/215130191-8d39fa73-2f6d-4754-a100-6cc21c3c0d7f.png)
 
 ![Screenshot (238)](https://user-images.githubusercontent.com/112904905/215130675-f4103873-a444-4489-a408-03a54c68847b.png)
 
-### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+### 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 ![Screenshot (239)](https://user-images.githubusercontent.com/112904905/215131013-ccd55a58-c35a-4b5d-a964-bce471a66540.png)
 
-### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+### 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 ![Screenshot (240)](https://user-images.githubusercontent.com/112904905/215132084-aa6fa706-687e-46a6-9f38-7ca990825e66.png)
  
